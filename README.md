@@ -4,5 +4,5 @@
 
 ## Live Preview
 
-[![Tailwinui HTML to JSX](./images/live.png)](https://iampika.github.io/tailwind-html-to-jsx/)
+[![Tailwinui HTML to JSX](./assets/live.png)](https://iampika.github.io/tailwind-html-to-jsx/)
 
